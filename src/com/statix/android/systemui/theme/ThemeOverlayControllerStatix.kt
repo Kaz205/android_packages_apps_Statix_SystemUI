@@ -62,6 +62,7 @@ constructor(
         featureFlags,
         resources,
         wakefulnessLifecycle,
+        configurationController,
     ) {
 
     private val darkConfigurationListener =
