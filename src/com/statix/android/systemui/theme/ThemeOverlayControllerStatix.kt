@@ -65,6 +65,7 @@ constructor(
         resources,
         wakefulnessLifecycle,
         uiModeManager,
+        configurationController,
     ) {
 
     private val darkConfigurationListener =
